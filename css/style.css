@@ -474,7 +474,7 @@ footer span{
   display:none;
 }
 
-.scroll-up-button i{
+.scroll-up-button a{
   color: white;
 }
 
@@ -600,7 +600,7 @@ section .title::after {
 
   .scroll-up-button{
     height: 40px;
-    width: 30px;
+    width: 40px;
     padding-top: 8px;
     font-size: 20px;
     right :10px
